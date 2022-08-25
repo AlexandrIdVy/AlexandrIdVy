@@ -9,6 +9,10 @@ A beginner web developer
 ## 📊 GitHub Stats:
 
 
-[![](https://raw.githubusercontent.com/AlexandrIdVy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/AlexandrIdVy/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AlexandrIdVy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/AlexandrIdVy/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AlexandrIdVy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/AlexandrIdVy/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/AlexandrIdVy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/AlexandrIdVy/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AlexandrIdVy/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/AlexandrIdVy/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrIdVy&theme=nord_bright)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrIdVy&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandrIdVy&theme=nord_bright)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrIdVy&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexandrIdVy&theme=nord_bright)
+
+
