@@ -8,11 +8,14 @@ A beginner web developer
 
 ## 📊 GitHub Stats:
 
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrIdVy&theme=nord_bright)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexandrIdVy&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexandrIdVy&theme=nord_bright)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandrIdVy&theme=nord_bright)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexandrIdVy&theme=nord_bright)
+
+</div>
 
 
